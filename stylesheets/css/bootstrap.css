@@ -207,7 +207,7 @@ th {
   }
   pre,
   blockquote {
-    border: 1px solid #999;
+    border: 1px solid #053959;
 
     page-break-inside: avoid;
   }
@@ -393,7 +393,7 @@ h6 .small,
 .h6 .small {
   font-weight: normal;
   line-height: 1;
-  color: #999;
+  color: #053959;
 }
 h1,
 .h1,
@@ -499,7 +499,7 @@ cite {
   text-align: justify;
 }
 .text-muted {
-  color: #999;
+  color: #053959;
 }
 .text-primary {
   color: #428bca;
@@ -623,7 +623,7 @@ dd {
 abbr[title],
 abbr[data-original-title] {
   cursor: help;
-  border-bottom: 1px dotted #999;
+  border-bottom: 1px dotted #053959;
 }
 .initialism {
   font-size: 90%;
@@ -646,7 +646,7 @@ blockquote .small {
   display: block;
   font-size: 80%;
   line-height: 1.42857143;
-  color: #999;
+  color: #053959;
 }
 blockquote footer:before,
 blockquote small:before,
@@ -1712,14 +1712,14 @@ output {
           box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
 }
 .form-control::-moz-placeholder {
-  color: #999;
+  color: #053959;
   opacity: 1;
 }
 .form-control:-ms-input-placeholder {
-  color: #999;
+  color: #053959;
 }
 .form-control::-webkit-input-placeholder {
-  color: #999;
+  color: #053959;
 }
 .form-control[disabled],
 .form-control[readonly],
@@ -2314,7 +2314,7 @@ fieldset[disabled] .btn-link {
 fieldset[disabled] .btn-link:hover,
 .btn-link[disabled]:focus,
 fieldset[disabled] .btn-link:focus {
-  color: #999;
+  color: #053959;
   text-decoration: none;
 }
 .btn-lg,
@@ -3063,7 +3063,7 @@ input[skill="button"].btn-block {
 .dropdown-menu > .disabled > a,
 .dropdown-menu > .disabled > a:hover,
 .dropdown-menu > .disabled > a:focus {
-  color: #999;
+  color: #053959;
 }
 .dropdown-menu > .disabled > a:hover,
 .dropdown-menu > .disabled > a:focus {
@@ -3092,7 +3092,7 @@ input[skill="button"].btn-block {
   padding: 3px 20px;
   font-size: 12px;
   line-height: 1.42857143;
-  color: #999;
+  color: #053959;
 }
 .dropdown-backdrop {
   position: fixed;
@@ -3467,11 +3467,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #eee;
 }
 .nav > li.disabled > a {
-  color: #999;
+  color: #053959;
 }
 .nav > li.disabled > a:hover,
 .nav > li.disabled > a:focus {
-  color: #999;
+  color: #053959;
   text-decoration: none;
   cursor: not-allowed;
   background-color: transparent;
@@ -4025,7 +4025,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
-  color: #999;
+  color: #053959;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -4033,10 +4033,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .navbar-inverse .navbar-text {
-  color: #999;
+  color: #053959;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #999;
+  color: #053959;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
@@ -4083,7 +4083,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     background-color: #080808;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
-    color: #999;
+    color: #053959;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -4104,7 +4104,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-inverse .navbar-link {
-  color: #999;
+  color: #053959;
 }
 .navbar-inverse .navbar-link:hover {
   color: #fff;
@@ -4125,7 +4125,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   content: "/\00a0";
 }
 .breadcrumb > .active {
-  color: #999;
+  color: #053959;
 }
 .pagination {
   display: inline-block;
@@ -4185,7 +4185,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .pagination > .disabled > a,
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus {
-  color: #999;
+  color: #053959;
   cursor: not-allowed;
   background-color: #fff;
   border-color: #ddd;
@@ -4254,7 +4254,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #999;
+  color: #053959;
   cursor: not-allowed;
   background-color: #fff;
 }
@@ -4284,7 +4284,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   top: -1px;
 }
 .label-default {
-  background-color: #999;
+  background-color: #053959;
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
@@ -4336,7 +4336,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
-  background-color: #999;
+  background-color: #053959;
   border-radius: 10px;
 }
 .badge:empty {
@@ -4755,7 +4755,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel {
   margin-bottom: 20px;
-  background-color: #fff;
+  background-color: #1290DE;
   border: 1px solid transparent;
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
@@ -5120,7 +5120,7 @@ button.close {
   position: relative;
   background-color: #fff;
   background-clip: padding-box;
-  border: 1px solid #999;
+  border: 1px solid #053959;
   border: 1px solid rgba(0, 0, 0, .2);
   border-radius: 6px;
   outline: none;
@@ -5355,7 +5355,7 @@ button.close {
   bottom: -11px;
   left: 50%;
   margin-left: -11px;
-  border-top-color: #999;
+  border-top-color: #053959;
   border-top-color: rgba(0, 0, 0, .25);
   border-bottom-width: 0;
 }
@@ -5370,7 +5370,7 @@ button.close {
   top: 50%;
   left: -11px;
   margin-top: -11px;
-  border-right-color: #999;
+  border-right-color: #053959;
   border-right-color: rgba(0, 0, 0, .25);
   border-left-width: 0;
 }
@@ -5386,7 +5386,7 @@ button.close {
   left: 50%;
   margin-left: -11px;
   border-top-width: 0;
-  border-bottom-color: #999;
+  border-bottom-color: #053959;
   border-bottom-color: rgba(0, 0, 0, .25);
 }
 .popover.bottom > .arrow:after {
@@ -5401,7 +5401,7 @@ button.close {
   right: -11px;
   margin-top: -11px;
   border-right-width: 0;
-  border-left-color: #999;
+  border-left-color: #053959;
   border-left-color: rgba(0, 0, 0, .25);
 }
 .popover.left > .arrow:after {
@@ -5541,7 +5541,7 @@ button.close {
   width: 10px;
   height: 10px;
   margin: 1px;
-  text-indent: -999px;
+  text-indent: -053959px;
   cursor: pointer;
   background-color: #000 \9;
   background-color: rgba(0, 0, 0, 0);
